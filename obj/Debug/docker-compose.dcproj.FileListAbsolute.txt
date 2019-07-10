@@ -1,0 +1,6 @@
+C:\_projetos\_github\Impressora\TesteImpressora\bin\Debug\TesteImpressora.dll
+C:\_projetos\_github\Impressora\TesteImpressora\bin\Debug\ThermalDotNet.dll
+C:\_projetos\_github\Impressora\TesteImpressora\bin\Debug\TesteImpressora.pdb
+C:\_projetos\_github\Impressora\TesteImpressora\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\_projetos\_github\Impressora\TesteImpressora\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\_projetos\_github\Impressora\TesteImpressora\obj\Debug\docker-compose.dcproj.CopyComplete

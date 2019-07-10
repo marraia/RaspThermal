@@ -1,0 +1,16 @@
+C:\_projetos\_github\Impressora\TesteImpressora\TesteImpressora\obj\Debug\netcoreapp2.2\TesteImpressora.csproj.CoreCompileInputs.cache
+C:\_projetos\_github\Impressora\TesteImpressora\TesteImpressora\obj\Debug\netcoreapp2.2\TesteImpressora.AssemblyInfoInputs.cache
+C:\_projetos\_github\Impressora\TesteImpressora\TesteImpressora\obj\Debug\netcoreapp2.2\TesteImpressora.AssemblyInfo.cs
+C:\_projetos\_github\Impressora\TesteImpressora\TesteImpressora\bin\Debug\netcoreapp2.2\TesteImpressora.deps.json
+C:\_projetos\_github\Impressora\TesteImpressora\TesteImpressora\bin\Debug\netcoreapp2.2\TesteImpressora.runtimeconfig.json
+C:\_projetos\_github\Impressora\TesteImpressora\TesteImpressora\bin\Debug\netcoreapp2.2\TesteImpressora.runtimeconfig.dev.json
+C:\_projetos\_github\Impressora\TesteImpressora\TesteImpressora\bin\Debug\netcoreapp2.2\TesteImpressora.dll
+C:\_projetos\_github\Impressora\TesteImpressora\TesteImpressora\bin\Debug\netcoreapp2.2\ThermalDotNet.dll
+C:\_projetos\_github\Impressora\TesteImpressora\TesteImpressora\obj\Debug\netcoreapp2.2\TesteImpressora.csprojAssemblyReference.cache
+C:\_projetos\_github\Impressora\TesteImpressora\TesteImpressora\obj\Debug\netcoreapp2.2\TesteImpressora.RazorAssemblyInfo.cache
+C:\_projetos\_github\Impressora\TesteImpressora\TesteImpressora\obj\Debug\netcoreapp2.2\TesteImpressora.RazorAssemblyInfo.cs
+C:\_projetos\_github\Impressora\TesteImpressora\TesteImpressora\obj\Debug\netcoreapp2.2\TesteImpressora.RazorTargetAssemblyInfo.cache
+C:\_projetos\_github\Impressora\TesteImpressora\TesteImpressora\obj\Debug\netcoreapp2.2\TesteImpressora.csproj.CopyComplete
+C:\_projetos\_github\Impressora\TesteImpressora\TesteImpressora\bin\Debug\netcoreapp2.2\TesteImpressora.pdb
+C:\_projetos\_github\Impressora\TesteImpressora\TesteImpressora\obj\Debug\netcoreapp2.2\TesteImpressora.dll
+C:\_projetos\_github\Impressora\TesteImpressora\TesteImpressora\obj\Debug\netcoreapp2.2\TesteImpressora.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteImpressora", "TesteImpressora\TesteImpressora.csproj", "{D3A1CEDD-8596-4B42-B3BC-88A81D9B5649}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{22C742B2-CAAF-477D-8244-BE0903C6E289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3A1CEDD-8596-4B42-B3BC-88A81D9B5649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A1CEDD-8596-4B42-B3BC-88A81D9B5649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A1CEDD-8596-4B42-B3BC-88A81D9B5649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A1CEDD-8596-4B42-B3BC-88A81D9B5649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C742B2-CAAF-477D-8244-BE0903C6E289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C742B2-CAAF-477D-8244-BE0903C6E289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C742B2-CAAF-477D-8244-BE0903C6E289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C742B2-CAAF-477D-8244-BE0903C6E289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D782268-9B89-48D8-965E-CFCC4C8B6561}
+	EndGlobalSection
+EndGlobal

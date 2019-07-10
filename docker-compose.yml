@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  testeimpressora:
+    image: ${DOCKER_REGISTRY-}testeimpressora
+    build:
+      context: .
+      dockerfile: TesteImpressora/Dockerfile
