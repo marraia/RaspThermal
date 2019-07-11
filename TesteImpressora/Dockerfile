@@ -8,10 +8,10 @@ COPY ["TesteImpressora/TesteImpressora.csproj", "TesteImpressora/"]
 RUN dotnet restore "TesteImpressora/TesteImpressora.csproj"
 COPY . .
 WORKDIR "/src/TesteImpressora"
-RUN dotnet build "TesteImpressora.csproj" -c Release -o /app
+RUN dotnet build "TesteImpressora.csproj" -c Release -r linux-arm -o /app
 
 FROM build AS publish
-RUN dotnet publish "TesteImpressora.csproj" -c Release -o /app
+RUN dotnet publish "TesteImpressora.csproj" -c Release -r linux-arm -o /app
 
 FROM base AS final
 WORKDIR /app
