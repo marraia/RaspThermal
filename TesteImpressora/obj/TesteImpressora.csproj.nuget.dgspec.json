@@ -64,7 +64,7 @@
             },
             "System.IO.Ports": {
               "target": "Package",
-              "version": "[4.5.0, )"
+              "version": "[4.6.0-preview.19073.11, )"
             }
           },
           "imports": [
